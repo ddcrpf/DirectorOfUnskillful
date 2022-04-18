@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DirectorOfUnskillful
 - 👀 I’m interested in ...Don't know yet
-- 🌱 I’m currently learning ...C
+- 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...Anything
 - 📫 How to reach me ...https://www.instagram.com/chaubeypranjal28/
 
